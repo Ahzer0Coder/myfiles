@@ -11,7 +11,7 @@ on:
 
 jobs:
   build-and-test:
-    if: ${{ github.repository == 'jackyzha0/quartz' }}
+    if: ${{ github.repository == 'Ahzer0Coder/myfiles' }}
     strategy:
       matrix:
         os: [windows-latest, macos-latest, ubuntu-latest]

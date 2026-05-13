@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-05-12T21:16:22.797+03:00
-modified: 2026-05-13T21:15:16.277+03:00
+created: 2026-05-13T21:31:03.017+03:00
+modified: 2026-05-13T21:31:40.140+03:00
 ---
 
 ## 1. Determination of High Resistance by Leakage Method
